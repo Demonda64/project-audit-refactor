@@ -1,0 +1,14 @@
+{
+  "name": "quickdesk-api",
+  "version": "0.0.1",
+  "description": "Volontairement mal structuré (projet pour audit/refactor).",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
