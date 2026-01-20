@@ -1,0 +1,391 @@
+🎓 Programme de Formation
+De Développeur intermédiaire → Freelance Senior crédible
+
+Durée cible : 4 à 6 mois (adaptable)
+20 projets professionnels progressifs
+
+🧱 PHASE 1 — Fondations professionnelles (Posture + Qualité de code)
+
+Objectif : sortir du mode “dev qui code” → entrer dans “ingénieur logiciel propre”.
+
+Projet 1 — Audit et refactor d’un projet existant
+
+➡️ On te donne un projet volontairement mal structuré
+Tu dois :
+
+Revoir l’architecture
+
+Renommer proprement
+
+Structurer les dossiers
+
+Ajouter linting
+
+Ajouter README professionnel
+
+Compétences :
+
+Clean code
+
+Architecture de projet
+
+Lecture de code existant (ultra précieux en freelance)
+
+Communication technique claire
+
+Projet 2 — Création d’un boilerplate professionnel
+
+Tu construis ton propre :
+
+Backend Node propre
+
+Frontend React structuré
+
+ESLint / Prettier
+
+Git conventions
+
+README premium
+
+Ce boilerplate devient ta base pour tous les projets suivants.
+
+Compétences :
+
+Architecture
+
+Standardisation
+
+Productivité freelance
+
+Projet 3 — API REST propre avec authentification
+
+Backend avec :
+
+Express propre
+
+JWT
+
+Middleware sécurité
+
+Architecture service/controller
+
+Tests unitaires
+
+Compétences :
+
+Backend réel
+
+Sécurité
+
+Structuration professionnelle
+
+🧠 PHASE 2 — Frontend avancé et crédibilité produit
+Projet 4 — Dashboard professionnel (admin panel)
+
+Créer un vrai dashboard avec :
+
+Auth
+
+Permissions
+
+UI claire
+
+Données dynamiques
+
+Compétences :
+
+React avancé
+
+UX professionnelle
+
+Structuration UI
+
+Projet 5 — Refonte d’UX pour un produit existant
+
+On part d’une app moche → tu proposes :
+
+Audit UX
+
+Refonte UI
+
+Argumentaire client
+
+Compétences :
+
+Vision produit
+
+Capacité à justifier tes choix
+
+Positionnement consultant
+
+Projet 6 — Optimisation de performance frontend
+
+Audit Lighthouse
+Code splitting
+Lazy loading
+Optimisation bundle
+
+Compétences :
+
+Performance réelle
+
+Crédibilité senior
+
+⚙️ PHASE 3 — Backend, sécurité et crédibilité technique
+Projet 7 — Système complet Auth sécurisé
+
+JWT + refresh tokens
+
+Sessions
+
+Protection routes
+
+Sécurité OWASP
+
+Compétences :
+
+Sécurité réelle (très valorisée)
+
+Projet 8 — Implémentation Redis
+
+Cache
+
+Sessions
+
+Optimisation performances
+
+Compétences :
+
+Scalabilité
+
+Infra intelligente
+
+Projet 9 — API prête pour production
+
+Logs propres
+
+Gestion erreurs
+
+Monitoring basique
+
+Sécurité headers
+
+Rate limiting
+
+Compétences :
+
+Niveau prod réel
+
+🐳 PHASE 4 — DevOps Freelance crédible
+Projet 10 — Projet dockerisé proprement
+
+Dockerfile propre
+
+docker-compose
+
+Multi-services
+
+Compétences :
+
+Projets déployables
+
+Propreté professionnelle
+
+Projet 11 — Pipeline CI/CD
+
+GitHub Actions
+
+Tests automatiques
+
+Lint
+
+Build
+
+Compétences :
+
+Dev pro
+
+Entreprise ready
+
+Projet 12 — Déploiement réel sur serveur
+
+VPS
+
+SSH
+
+Nginx
+
+HTTPS
+
+Domaine
+
+Compétences :
+
+Autonomie totale freelance
+
+☁️ PHASE 5 — Scalabilité & architecture moderne
+Projet 13 — API Serverless (AWS Lambda ou équivalent)
+
+Fonction serverless
+
+API Gateway
+
+Logs
+
+Compétences :
+
+Architecture moderne
+
+Crédibilité tech avancée
+
+Projet 14 — Choix SSR vs CSR argumenté
+
+Créer 2 versions d’une app :
+
+Une CSR
+
+Une SSR
+Comparer et justifier
+
+Compétences :
+
+Argumentation technique senior
+
+💼 PHASE 6 — Mode Freelance réel (business + tech)
+Projet 15 — Simulation client non-tech
+
+Je joue le client flou.
+Tu dois :
+
+Poser les bonnes questions
+
+Reformuler besoin
+
+Proposer solution
+
+Compétences :
+
+Analyse client
+
+Communication
+
+Projet 16 — Rédaction devis + proposition technique
+
+Tu livres :
+
+Devis structuré
+
+Planning
+
+Livrables
+
+Périmètre
+
+Compétences :
+
+Vente freelance
+
+Positionnement senior
+
+Projet 17 — Projet client simulé complet
+
+Cas réaliste :
+
+“PME veut plateforme interne pour gérer ses clients”
+
+Tu fais :
+
+Cadrage
+
+Architecture
+
+Dev
+
+Livraison
+
+Documentation
+
+Compétences :
+
+Cycle complet mission freelance
+
+🚀 PHASE 7 — Crédibilité marché et différenciation
+Projet 18 — Portfolio premium
+
+Création de :
+
+Site portfolio
+
+Études de cas
+
+Positionnement clair
+
+Branding crédible
+
+Compétences :
+
+Marketing freelance
+
+Image professionnelle
+
+Projet 19 — Simulation d’entretien freelance
+
+Je joue :
+
+Client
+
+CTO
+
+Recruteur technique
+
+Questions dures, objections, stress.
+
+Compétences :
+
+Défense orale
+
+Leadership technique
+
+Projet 20 — Projet signature
+
+Tu construis :
+👉 TON projet différenciant
+(ex: SaaS, outil interne, produit utile)
+
+Objectif :
+
+Un projet qui peut réellement te décrocher des missions.
+🎯 Résultat final réel
+
+Si tu fais sérieusement ces 20 projets :
+
+Tu as un GitHub crédible
+
+Tu peux parler architecture
+
+Tu sais gérer un client
+
+Tu peux vendre 400–800€/jour
+
+Tu n’es plus un exécutant
+
+Tu es consultant technique indépendant
+
+🧠 Important : ce programme n’est pas scolaire
+
+Il est conçu comme :
+
+Une transformation professionnelle complète
+
+Tu ne “apprends pas des technos”.
+Tu deviens quelqu’un qui :
+
+comprend
+
+structure
+
+explique
+
+vend
+
+livre proprement
